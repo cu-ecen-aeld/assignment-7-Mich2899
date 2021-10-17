@@ -1,8 +1,6 @@
 
 SUBDIRS =  misc-progs misc-modules \
-           skull scull scullc scullp lddbus sculld scullv shortprint simple tty \
-	   pci usb\
-	   sbull snull short
+           scull scullc scullp sculld scullv \
 
 all: subdirs
 
